@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-program-that-reads-an-input-file-of-several-lines
+<br>
+Write a program that reads an input file of several lines, fetches and prints the first word from each line and discards the rest of the line. A word is defined as a sequence of characters, separated by spaces, tabs or newlines. As an example, if the input file is Cauchy.dat , you would fetch the first line and print Baron , then you would fetch the second line and print the word first and so forth.
